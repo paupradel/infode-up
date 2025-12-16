@@ -4,7 +4,7 @@ repo: infode-up
 sites:
   - name: Google
     url: https://www.google.com
-  - name: info-delitos
+  - name: info delitos
     url: https://info-delitos.cdmx.gob.mx
 
 asignees:
