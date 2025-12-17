@@ -2,10 +2,15 @@ owner: paupradel
 repo: infode-up
 
 sites:
-  - name: Google
+  - name: info delitos prod
+    url: https://info-delitos.cdmx.gob.mx}
+  - name: info delitos preprod
+    url: https://info-delitos.pre.cdmx.gob.mx
+  - name: info delitos dev
+    url: https://info-delitos.des.cdmx.gob.mx
+  - name: Google (prueba)
     url: https://www.google.com
-  - name: info delitos
-    url: https://info-delitos.cdmx.gob.mx
+
 
 asignees:
   - paupradel
