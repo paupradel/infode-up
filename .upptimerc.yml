@@ -11,6 +11,8 @@ asignees:
   - paupradel
 
 status-website:
+  owner: paupradel
+  repo: infode-up
   baseUrl: /infode-up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
