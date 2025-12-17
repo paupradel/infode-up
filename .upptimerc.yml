@@ -25,7 +25,7 @@ status-website:
     - title: Repositorio
       href: https://github.com/$OWNER/$REPO
 
- i18n:
+i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operando
   incidentReport: "Informe del incidente #$NUMBER →"
