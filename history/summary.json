@@ -1,60 +1,22 @@
 [
   {
     "name": "info delitos prod",
-    "url": "https://info-delitos.cdmx.gob.mx}",
-    "icon": "https://icons.duckduckgo.com/ip3/info-delitos.cdmx.gob.mx.ico",
+    "url": "$INFO-DEL-PROD",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "info-delitos-prod",
     "status": "down",
-    "uptime": "1.59%",
-    "uptimeDay": "1.59%",
-    "uptimeWeek": "1.59%",
-    "uptimeMonth": "1.59%",
-    "uptimeYear": "1.59%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-17": 0
-    }
-  },
-  {
-    "name": "info delitos preprod",
-    "url": "https://info-delitos.pre.cdmx.gob.mx",
-    "icon": "https://icons.duckduckgo.com/ip3/info-delitos.pre.cdmx.gob.mx.ico",
-    "slug": "info-delitos-preprod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "info delitos dev",
-    "url": "https://info-delitos.des.cdmx.gob.mx",
-    "icon": "https://icons.duckduckgo.com/ip3/info-delitos.des.cdmx.gob.mx.ico",
-    "slug": "info-delitos-dev",
-    "status": "down",
-    "uptime": "27.56%",
-    "uptimeDay": "27.56%",
-    "uptimeWeek": "27.56%",
-    "uptimeMonth": "27.56%",
-    "uptimeYear": "27.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-12-17": 0
+      "2025-12-17": 8
     }
   },
   {
@@ -68,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   }
 ]
