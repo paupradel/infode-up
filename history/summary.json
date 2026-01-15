@@ -10,53 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 782,
-    "timeDay": 1410,
-    "timeWeek": 863,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 770,
+    "timeDay": 1231,
+    "timeWeek": 819,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2025-12-17": 16
-    }
-  },
-  {
-    "name": "Google (prueba)",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google-prueba",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 147,
-    "timeDay": 388,
-    "timeWeek": 224,
-    "timeMonth": 147,
-    "timeYear": 147,
-    "dailyMinutesDown": {
-      "2025-12-23": 19
-    }
-  },
-  {
-    "name": "Sitio de prueba",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "sitio-de-prueba",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-15": 0
     }
   }
 ]
