@@ -7,6 +7,10 @@ sites:
   - name: Google (prueba)
     url: https://www.google.com
 
+notifications:
+  - type: slack
+    url: $NOTIFICATION_SLACK_WEBHOOK_URL
+
 
 asignees:
   - paupradel
