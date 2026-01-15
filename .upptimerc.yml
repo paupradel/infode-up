@@ -14,6 +14,7 @@ asignees:
 status-website:
   owner: paupradel
   repo: infode-up
+  theme: ocean
   baseUrl: /infode-up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Estatus InfoDel
