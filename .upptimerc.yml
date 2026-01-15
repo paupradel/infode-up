@@ -6,6 +6,8 @@ sites:
     url: $INFO_DEL_PROD
   - name: Google (prueba)
     url: https://www.google.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 notifications:
   - type: slack
